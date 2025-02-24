@@ -1,1 +1,1 @@
-# music-swipe
+# jamify
